@@ -1,0 +1,12 @@
+whitelist
+{
+	// Global model bounds & file consistency exemptions for ported Portal assets
+	// Exempts worldmodels, viewmodels, sound manifests, particle systems, and scripts
+	models\...		allow_from_disk
+	materials\...		allow_from_disk
+	sound\...		allow_from_disk
+	scripts\...		allow_from_disk
+	particles\...		allow_from_disk
+	maps\...		allow_from_disk
+	resource\...		allow_from_disk
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+    "$basetexture" "effects/portal_orange_overlay"
+    "$additive" 1
+    "$translucent" 1
+}
