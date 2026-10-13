@@ -1,13 +1,13 @@
 # Portal Strike
 
-> Play Counter-Strike: Source with the Aperture Science Handheld Portal Device, live see-through portal cameras, reverse-time killcams, and intelligent bot squads.
+> Play Counter-Strike: Source with the Portal Gun, reverse-time killcams, and intelligent bot squads.
 
 ## 👨‍💻 Creator & Community
 
 - Creator: MrLuke1618
 - YouTube: [@luke1618gamer](https://www.youtube.com/@luke1618gamer)
 - TikTok: [@hoangcao2704](https://www.tiktok.com/@hoangcao2704)
-- Public Distribution: Melty.gg & YouTube
+- Public Distribution: GitHub, Melty.gg & YouTube
 
 ---
 
