@@ -115,7 +115,7 @@ portal_strike_release/
      - Deploy see-through camera shaders (`portal_1_dynamicmesh.vmt`, `portal_2_dynamicmesh.vmt` -> `_rt_Camera`)
      - Deploy `portal_strike.smx` directly into `cstrike/addons/sourcemod/plugins/`
      - Deploy `pure_server_whitelist.txt` into `cstrike/`
-4. Press `[0]` to launch CS:S to the Main Menu or select any map number to launch directly into a match with bots.
+4. Press `[0]` to launch vanilla CS:S or select any map number to launch directly into a match with bots.
 
 ### Option B: Manual Installation
 1. Ensure you have run `python package_portal_to_css.py --css "<PathToCSS>" --portal "<PathToPortal>"` to extract assets from your local Portal copy.
